@@ -16,7 +16,8 @@
   background-color: white;
 }
 .footer{
-  
+  flex: 5%
+  background-color: lightgray;
 }
 
 h1 {
